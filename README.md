@@ -11,7 +11,7 @@
    <img align="center" alt="Henri-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
   
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/827986412427149331/937213596369317888/avatar.186.jpg">
+  <img align="right" alt="Henri-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/827986412427149331/937213596369317888/avatar.186.jpg">
 </div>
   
   ##
@@ -20,7 +20,5 @@
   <a href="https://www.instagram.com/henri_lps/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:henriquelokb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
+
 </div>
